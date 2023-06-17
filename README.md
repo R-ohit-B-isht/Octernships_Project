@@ -48,7 +48,7 @@ The starter code is included in this repository. ‼️
 * Prepare your Linux environment
 * Follow https://github.com/Desdaemon/flutter_rust_bridge_template/blob/main/README.md to get started
 * `flutter run -d linux`
-![image](https://user-images.githubusercontent.com/71636191/231404421-a203e923-0c51-42fd-9ee7-cea0ea44fdd9.png)
+![image](./AssignmentSolution.png)
 
 ### Task instructions
 
